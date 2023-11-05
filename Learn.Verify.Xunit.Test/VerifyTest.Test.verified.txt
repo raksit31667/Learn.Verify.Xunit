@@ -1,0 +1,31 @@
+﻿[
+  {
+    Date: Date_1,
+    TemperatureC: 1,
+    TemperatureF: 33,
+    Summary: Scorching
+  },
+  {
+    Date: Date_2,
+    TemperatureC: -18,
+    Summary: Sweltering
+  },
+  {
+    Date: Date_3,
+    TemperatureC: -16,
+    TemperatureF: 4,
+    Summary: Sweltering
+  },
+  {
+    Date: Date_4,
+    TemperatureC: 54,
+    TemperatureF: 129,
+    Summary: Cool
+  },
+  {
+    Date: Date_5,
+    TemperatureC: 51,
+    TemperatureF: 123,
+    Summary: Chilly
+  }
+]
