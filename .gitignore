@@ -496,4 +496,7 @@ fabric.properties
 !.idea/codeStyles
 !.idea/runConfigurations
 
+### Verify ###
+*.received.*
+
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all,csharp,dotnetcore
